@@ -4,7 +4,5 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Helo, welcome to ProSDETwithAJ");
-        System.out.println(Character.MAX_VALUE);
-
     }
     }

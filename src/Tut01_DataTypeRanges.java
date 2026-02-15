@@ -1,4 +1,4 @@
-public class Tut001 {
+public class Tut01_DataTypeRanges {
     public static void main(String[] args) {
         // byte
         System.out.println("byte");
