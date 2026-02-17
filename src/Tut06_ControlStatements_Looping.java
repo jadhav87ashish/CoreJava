@@ -1,4 +1,4 @@
-public class Tut05_ControlStatements_Looping {
+public class Tut06_ControlStatements_Looping {
     public static void main(String[] args) {
         // while loop
         // conditional check at start
@@ -103,24 +103,6 @@ public class Tut05_ControlStatements_Looping {
         for (int b = 10; b>=1; b--){
             System.out.println(b + " for loop in descending order");
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
