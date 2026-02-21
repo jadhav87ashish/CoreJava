@@ -1,4 +1,4 @@
-package Tut15Polymorphism_MethodOverloading;
+package Tut15Polymorphism_MethodAndConstructorOverloading;
 
 public class Addition {
     int a =20, b= 30;
