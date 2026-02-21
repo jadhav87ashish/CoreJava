@@ -72,13 +72,13 @@ public class Tut10String {
 
         //split
         String newStr = "abc_xyz@pqr_com"; // doesnot work with some special chars like . / , ; ' ' [ ]
-        String a[]=newStr.split(" ");
+        String a[]=newStr.split("_");
         System.out.println(a[0]);
         System.out.println(a[1]);
         System.out.println(a[2]);
 
 
-        
+
 
 
     }
