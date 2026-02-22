@@ -9,7 +9,7 @@ class A
     }
 }
 
-
+//single
 class B extends A
 {
     int b = 456;
@@ -18,7 +18,7 @@ class B extends A
     }
 }
 
-
+//multi-level
 class C extends B
 {
     int c = 555;
