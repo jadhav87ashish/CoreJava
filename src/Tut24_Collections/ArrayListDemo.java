@@ -1,11 +1,9 @@
 package Tut24_Collections;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.Iterator;
 
 
-public class ArrayListCollection {
+public class ArrayListDemo {
     public static void main(String[] args) {
         //declarations
         ArrayList myList = new ArrayList(); // heterogeneous data
