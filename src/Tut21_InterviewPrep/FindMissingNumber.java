@@ -3,7 +3,7 @@ package Tut21_InterviewPrep;
 // Find missing number in array (1–100)(Hint: Use formula n(n+1)/2.)
 
 
-public class MissingNumber {
+public class FindMissingNumber {
     public static void main(String[] args) {
 
         int[] arr = {
@@ -21,6 +21,7 @@ public class MissingNumber {
         for (int num : arr) {
             actualSum = actualSum + num;
         }
+        System.out.println(actualSum);
 
         int missingNumber = expectedSum - actualSum;
         System.out.println("The missing number is: " + missingNumber);
