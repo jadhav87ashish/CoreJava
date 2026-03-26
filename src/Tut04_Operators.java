@@ -3,6 +3,7 @@ public class Tut04_Operators {
         //arithmetic
         int a = 10;
         int b = 6;
+        System.out.println("arithmetic");
         System.out.println(a+b);
         System.out.println(a-b);
         System.out.println(a*b);
@@ -13,6 +14,7 @@ public class Tut04_Operators {
         //comparison
         int c =10;
         int d = 5;
+        System.out.println("comparison");
         System.out.println(c>d);
         System.out.println(c<d);
         System.out.println(c>=d);

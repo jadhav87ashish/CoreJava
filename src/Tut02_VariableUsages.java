@@ -3,10 +3,10 @@ public class Tut02_VariableUsages {
 
         int a;
         a= 10;
-        System.out.println(a);
+        System.out.println("Value of a is "+a);
 
         int b = 10;
-        System.out.println(b);
+        System.out.println("Value of b is "+b);
 
 
         int c = 20;

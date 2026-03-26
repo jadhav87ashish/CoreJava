@@ -6,13 +6,12 @@ import java.util.Map;
 public class FindDuplicates {
     public static void main(String[] args) {
         String str = "programming";
-        char[] chars = str.toCharArray();
 
         // Step 1: Create a HashMap to store char and its count
         Map<Character, Integer> charMap = new HashMap<>();
 
         // Step 2: Traverse the string and update counts
-        for (char ch : chars) {
+        for (char ch : str.toCharArray()) {
             if (charMap.containsKey(ch)) {
                 charMap.put(ch, charMap.get(ch) + 1);
             } else {

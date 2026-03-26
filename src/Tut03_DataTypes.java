@@ -6,13 +6,11 @@ public class Tut03_DataTypes {
         System.out.println(a+b);
 
         byte d = 125;
-
         short e = 3535;
         long l = 212121212121L;
 
 
         // Decimal
-
         float f = 1524.5555F;
         double doub = 454541515.4564746;
 

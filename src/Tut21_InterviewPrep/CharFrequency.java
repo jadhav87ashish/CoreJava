@@ -15,5 +15,6 @@ public class CharFrequency {
 
         // Print occurrences
         freqMap.forEach((key, value) -> System.out.println(key + ": " + value));
+
     }
 }
